@@ -1,0 +1,41 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "company": "google",
+      "role": "SWE",
+      "status": "applied",
+      "appliedDate": "2026-11-18"
+    },
+    {
+      "id": 2,
+      "company": "Microsoft",
+      "role": "Frontend",
+      "status": "Interview",
+      "appliedDate": "2026-11-18"
+    },
+    {
+      "id": 3,
+      "company": "Amazon",
+      "role": "Backend",
+      "status": "applied",
+      "appliedDate": "2026-11-18"
+    },
+    {
+      "id": 4,
+      "company": "Webomindapps",
+      "role": "SEO",
+      "status": "Rejected",
+      "appliedDate": "2026-11-18",
+      "updatedDate": "2026-11-18T13:08:41.030Z"
+    },
+    {
+      "id": 5,
+      "company": "Nvidia",
+      "role": "SDE-2",
+      "status": "applied",
+      "appliedDate": "2026-11-18T12:51:30.012Z",
+      "updatedDate": "2026-11-18T12:51:30.013Z"
+    }
+  ]
+}
